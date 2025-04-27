@@ -1,4 +1,4 @@
-This thesis presents a framework for generating minimal counterfactual explanations in the context of Group Recommender Systems (GRS). Using the 1M MovieLens dataset, our approach integrates collaborative filtering techniques, user similarity-based 
+My thesis presents a framework for generating minimal counterfactual explanations in the context of Group Recommender Systems (GRS). Using the 1M MovieLens dataset, our approach integrates collaborative filtering techniques, user similarity-based 
 grouping, and a novel item-scoring function. We then cluster items to identify and remove “influential clusters” to pinpoint the smallest subset of items responsible for a specific 
 recommendation outcome. By explaining group recommendations through minimal counterfactuals, our work provides a more transparent view of how a recommended item 
 can appear or be excluded based on other items in the group’s preference set. 
